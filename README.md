@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Handshake.gif">
 
 <!--
 **sachidumaleesha/sachidumaleesha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
