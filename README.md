@@ -40,3 +40,9 @@ function displayQuote() {
 ```
 
 <img src= "https://github.com/ChillBroh/ChillBroh/blob/main/png/my-octocat.png" width="150px" height="100px">
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
