@@ -15,4 +15,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+```javascript
+//phoenix protocol v.3
+const person = (body,mind) => {
+	let level;
+	let knowlege;
+
+	while(body.health){
+		level++;
+		knowlege++;
+		
+		if(mind.distractions){
+			while(mind.distractions){
+				body.pushUps(10);
+			}
+		}
+	}
+}
+```
+
 <img src = "https://raw.githubusercontent.com/vikumkbv/vikumkbv/master/icons/header_.png">
