@@ -19,11 +19,12 @@ Here are some ideas to get you started:
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="29.14px" width="30px">, I'm Diwan Sachidu</h1>
 
 # 📊 GitHub Stats:
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachidumaleesha&" alt="sachidumaleesha" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachidumaleesha&show_icons=true&locale=en&layout=compact" alt="sachidumaleesha" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachidumaleesha&show_icons=true&locale=en" alt="sachidumaleesha" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachidumaleesha&" alt="sachidumaleesha" /></p>
+
 
 
 ```javascript
