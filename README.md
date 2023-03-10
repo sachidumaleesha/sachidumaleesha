@@ -16,21 +16,17 @@ Here are some ideas to get you started:
 -->
 
 ```javascript
-//phoenix protocol v.3
-const person = (body,mind) => {
-	let level;
-	let knowlege;
-
-	while(body.health){
-		level++;
-		knowlege++;
-		
-		if(mind.distractions){
-			while(mind.distractions){
-				body.pushUps(10);
-			}
-		}
-	}
+function displayQuote() {
+	const quotes = [
+		"Don't watch the clock; do what it does. Keep going.",
+		"Believe you can and you're halfway there.",
+		"Success is not final, failure is not fatal: It is the courage to continue that counts.",
+		"Either you run the day or the day runs you.",
+		"You are never too old to set another goal or to dream a new dream.",
+		"I can't change the direction of the wind, but I can adjust my sails to always reach my destination."
+	];
+	const randomQuote = quotes[Math.floor(Math.random() * quotes.length)];
+	document.getElementById('quote').innerHTML = randomQuote;
 }
 ```
 
