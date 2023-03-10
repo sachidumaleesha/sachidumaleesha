@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src = "https://raw.githubusercontent.com/vikumkbv/vikumkbv/master/icons/header_.png">
+
 ```javascript
 function displayQuote() {
 	const quotes = [
@@ -30,4 +32,4 @@ function displayQuote() {
 }
 ```
 
-<img src = "https://raw.githubusercontent.com/vikumkbv/vikumkbv/master/icons/header_.png">
+<img src= "https://github.com/ChillBroh/ChillBroh/blob/main/png/my-octocat.png" width="150px" height="250px">
