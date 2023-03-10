@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 
 
-
+</br>
 ```javascript
 function displayQuote() {
 	const quotes = [
