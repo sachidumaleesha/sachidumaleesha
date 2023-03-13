@@ -18,11 +18,6 @@ Here are some ideas to get you started:
 <img src = "https://raw.githubusercontent.com/vikumkbv/vikumkbv/master/icons/header_.png">
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="29.14px" width="30px">, I'm Diwan Sachidu</h1>
 
-# 📊 GitHub Stats:
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachidumaleesha&" alt="sachidumaleesha" /></p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachidumaleesha&show_icons=true&locale=en" alt="sachidumaleesha" />
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachidumaleesha&show_icons=true&locale=en&layout=compact" alt="sachidumaleesha" /></p></br>
-
 
 ```javascript
 function displayQuote() {
