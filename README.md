@@ -34,7 +34,7 @@ function displayQuote() {
 }
 ```
 
-- <img src= "https://github.com/ChillBroh/ChillBroh/blob/main/png/my-octocat.png" width="150px" height="100px">
+<! -- <img src= "https://github.com/ChillBroh/ChillBroh/blob/main/png/my-octocat.png" width="150px" height="100px"> -->
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
