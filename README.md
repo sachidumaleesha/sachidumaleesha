@@ -48,12 +48,12 @@ function displayQuote() {
 ### <p align="center">Languages and Tools</p>
 
 <p align="center">
-  <a href="https://rupali-codes.netlify.app">
+  <a href="">
     <img src="https://skillicons.dev/icons?i=js,mongodb,express,react,nodejs,typescript,next,mysql" />
   </a>
 </p>
 <p align="center">
-  <a href="https://rupali-codes.netlify.app">
+  <a href="">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,figma,git,github,wordpress" />
   </a>
 </p>
