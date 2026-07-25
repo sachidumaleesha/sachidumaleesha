@@ -42,7 +42,7 @@ A few products I've built and shipped end-to-end - from idea to production:
     </td>
     <td width="33%" valign="top">
       <p><b>🎬 <a href="https://thumbsupme.app/">ThumbsupMe</a></b></p>
-      <p>A YouTube creator toolkit for generating scroll-stopping video ideas, titles, and thumbnails. Includes AI thumbnail generation, similar-thumbnail search, viral outlier video detection, cross-device thumbnail previews and lots of youtube free tools.</p>
+      <p>A YouTube creator toolkit for generating scroll-stopping video ideas, titles, and thumbnails. Includes AI thumbnail generation, similar-thumbnail search, viral outlier video detection, cross-device thumbnail previews and more youtube free tools.</p>
     </td>
     <td width="33%" valign="top">
       <p><b>🔍 <a href="https://shadcnsearch.dev/">Shadcn Search</a></b></p>
