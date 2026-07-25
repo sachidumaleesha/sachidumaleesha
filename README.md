@@ -32,13 +32,13 @@ function displayQuote() {
 
 ### 🚀 Public Projects
 
-A few products I've built and shipped end-to-end — from idea to production:
+A few products I've built and shipped end-to-end - from idea to production:
 
 <table>
   <tr>
     <td width="33%" valign="top">
       <p><b>🤳 <a href="https://selfieclone.com/">SelfieClone</a></b></p>
-      <p>Your personal AI photographer. Upload a few selfies once and generate realistic, professional-grade headshots and portraits for LinkedIn, dating apps, and social media — no photoshoot required.</p>
+      <p>Your personal AI photographer. Upload a few selfies once and generate realistic, professional-grade headshots and portraits for LinkedIn, dating apps, and social media - no photoshoot required.</p>
     </td>
     <td width="33%" valign="top">
       <p><b>🎬 <a href="https://thumbsupme.app/">ThumbsupMe</a></b></p>
@@ -46,7 +46,7 @@ A few products I've built and shipped end-to-end — from idea to production:
     </td>
     <td width="33%" valign="top">
       <p><b>🔍 <a href="https://shadcnsearch.dev/">Shadcn Search</a></b></p>
-      <p>A dedicated search engine for the shadcn/ui ecosystem — discover compatible components, custom libraries, templates, blocks, and registries, preview the code, explore dependencies, and install with a single CLI command.</p>
+      <p>A dedicated search engine for the shadcn/ui ecosystem - discover compatible components, custom libraries, templates, blocks, and registries, preview the code, explore dependencies, and install with a single CLI command.</p>
     </td>
   </tr>
 </table>
