@@ -32,24 +32,21 @@ function displayQuote() {
 
 ### 🚀 Public Projects
 
-A few products I've built and shipped end-to-end - from idea to production:
+A few products I've built and shipped end-to-end — from idea to production:
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h4>🤳 <a href="https://selfieclone.com/">SelfieClone</a></h4>
-      <p>Your personal AI photographer. Upload a few selfies once and generate realistic, professional-grade headshots and portraits for LinkedIn, dating apps, and social media - no photoshoot required.</p>
-      <p><b>Tags:</b> AI Image Generation, SaaS, Next.js</p>
+      <p><b>🤳 <a href="https://selfieclone.com/">SelfieClone</a></b></p>
+      <p>Your personal AI photographer. Upload a few selfies once and generate realistic, professional-grade headshots and portraits for LinkedIn, dating apps, and social media — no photoshoot required.</p>
     </td>
     <td width="33%" valign="top">
-      <h4>🎬 <a href="https://thumbsupme.app/">ThumbsupMe</a></h4>
+      <p><b>🎬 <a href="https://thumbsupme.app/">ThumbsupMe</a></b></p>
       <p>A YouTube creator toolkit for generating scroll-stopping video ideas, titles, and thumbnails. Includes AI thumbnail generation, similar-thumbnail search, viral outlier video detection, and cross-device thumbnail previews.</p>
-      <p><b>Tags:</b> YouTube Tools, AI, Creator Economy</p>
     </td>
     <td width="33%" valign="top">
-      <h4>🔍 <a href="https://shadcnsearch.dev/">Shadcn Search</a></h4>
-      <p>A dedicated search engine for the shadcn/ui ecosystem - discover compatible components, custom libraries, templates, blocks, and registries, preview the code, explore dependencies, and install with a single CLI command.</p>
-      <p><b>Tags:</b> Developer Tools, React, shadcn/ui</p>
+      <p><b>🔍 <a href="https://shadcnsearch.dev/">Shadcn Search</a></b></p>
+      <p>A dedicated search engine for the shadcn/ui ecosystem — discover compatible components, custom libraries, templates, blocks, and registries, preview the code, explore dependencies, and install with a single CLI command.</p>
     </td>
   </tr>
 </table>
